@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976257565610",
+    "project_id": "locatewiki2324",
+    "storage_bucket": "locatewiki2324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976257565610:android:66ed1637af6f6a5efa61d3",
+        "android_client_info": {
+          "package_name": "pt.isec.locatewiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUZ0r2HYhyMvvmZKKOJVz0RHJLnWhT6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
